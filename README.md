@@ -1,5 +1,6 @@
 # ACH Payments
 
+Owned by DCB.
 This repo will hold two systems:
 
 1. **Same Day ACH Payments**: originates and processes Same Day ACH entries.
